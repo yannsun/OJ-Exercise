@@ -14,7 +14,7 @@ int main()
 ```
 - 1001
 
-```
+``` C
 #include<stdio.h>
 int main(void)
 {
